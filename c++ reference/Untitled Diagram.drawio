@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T23:53:54.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="VzTGLGtexyyVNIgaG6AG" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-01T01:03:11.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="Dq87SgX-JzdxqUQz3V2L" version="15.0.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2523" dy="1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2523" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -581,8 +581,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u4K7yP3fu_QlwCk93Tlc-38" value="PCX_CBD_HEAD&lt;br&gt;PCX_CBD_SUMMARY:&lt;br&gt;CBD_KEY와 CBD_VER로 연결&lt;br&gt;CBD_SUMMARY에서&lt;br&gt;&amp;nbsp; QUOTE_DATE&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; PROD_FACTORY&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;ROUND 정보 얻어옴&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-330" y="740" width="304" height="70" as="geometry" />
+        <mxCell id="u4K7yP3fu_QlwCk93Tlc-38" value="PCX_CBD_HEAD&lt;br&gt;PCX_CBD_SUMMARY:&lt;br&gt;CBD_KEY와 CBD_VER로 연결&lt;br&gt;&lt;br&gt;CBD_SUMMARY에서&lt;br&gt;&amp;nbsp; QUOTE_DATE&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; PROD_FACTORY&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;ROUND 정보 얻어옴&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-331" y="740" width="304" height="70" as="geometry" />
         </mxCell>
         <mxCell id="u4K7yP3fu_QlwCk93Tlc-40" value="PCC_PLAN_OPCD 테이블 : 공정 별 일정 추출" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-465" y="230" width="300" height="50" as="geometry" />
